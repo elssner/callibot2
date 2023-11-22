@@ -3,7 +3,9 @@
     "description": "",
     "dependencies": {
         "core": "*",
-        "callibot": "github:MKleinSB/pxt-callibot#v2.1.1"
+        "callibot": "github:MKleinSB/pxt-callibot#v2.1.1",
+        "calli2bot": "github:calliope-net/calli2bot#v1.0.6",
+        "lcd-16x2": "github:calliope-net/lcd-16x2#v2.0.5"
     },
     "files": [
         "main.blocks",
